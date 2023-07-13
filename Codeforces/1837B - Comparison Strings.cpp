@@ -25,6 +25,7 @@ int main()
 		ans = max(ans,count); 
 		ans+=2;
 		cout << ans << endl; 
-    return 0; 
 	}
- 
+
+	return 0; 
+}
